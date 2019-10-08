@@ -54,7 +54,7 @@ h6 {
 .btn:hover {
     transition: 0.5s;
     color: #383838;
-    background-color: #fff;
+    background-color: rgb(240, 240, 240);
 }
 
 
@@ -88,7 +88,7 @@ h6 {
 .links {
     margin-top: 20px;
     .btn-default {
-        color: #ec6767;
+        color: #44b8ee;
     }
 }
 
@@ -156,7 +156,7 @@ h6 {
 /* Comment styles */
 
 .comment {
-    border-bottom: 1px solid #ec6767;
+    border-bottom: 2px solid #ec6767;
     padding-top: 15px;
     padding-bottom: 15px;
     .comment-content {
@@ -164,7 +164,7 @@ h6 {
     }
     .comment-posted-by {
         color: #eee;
-        font-size: 0.8em;
+        font-size: 1.2em;
     }
     .links {
         margin-top: 15px;
