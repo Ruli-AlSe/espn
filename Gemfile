@@ -51,4 +51,4 @@ group :test do
 end
 
 gem 'simple_form', '>= 3.2.1'
-gem 'bootstrap-sass', '~> 3.4'
+gem 'bootstrap-sass', '~> 3.4.1'
